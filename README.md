@@ -18,7 +18,7 @@ $ pip install -r requirments.txt
 
 
 ### How to use & Example
-  - Download or clone this repo https://github.com/naufalafif/tfidf.git (using terminal or command prompt)
+  - Download or clone this repo https://github.com/naufalafif/simit.git (using terminal or command prompt)
 ```sh
 $ git clone https://github.com/naufalafif/simit
 ```
